@@ -1,0 +1,28 @@
+body{
+    justify-content: center;
+    background-color: rgb(243, 138, 145);
+    
+ }
+
+header{
+    text-align: center;
+    border-bottom: 4px solid rgb(0, 155, 219) ;
+    box-shadow: 0px 4px 2px rgb(0, 155, 219) ;
+    padding: 12px;
+    background-color: rgb(26, 189, 237);
+    color: white;
+}
+
+header > h1{
+    padding: 12px;
+}
+
+header > p{
+    padding: 12px;
+}
+
+main{
+    background-color: rgb(243, 138, 145);
+    text-align: center;
+    color: white;
+}
