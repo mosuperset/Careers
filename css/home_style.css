@@ -7,6 +7,8 @@ body {
   margin: 0;
   background-color: #292929;
   overflow: hidden;
+  font-variant: small-caps;
+  font-size: xx-large;
 }
 
 nav {
