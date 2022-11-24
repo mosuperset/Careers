@@ -7,6 +7,8 @@ body {
   margin: 0;
   background-color: #292929;
   overflow: hidden;
+  font-variant: small-caps;
+  font-size: xx-large;
 }
 
 nav {
@@ -130,6 +132,6 @@ nav a:nth-child(4):hover ~ #indicator {
     background: linear-gradient(130deg, #002d74, #00a0df);
   }
   nav a:nth-child(5):hover ~ #indicator {
-    left: 95%;
+    left: 92%;
     background: linear-gradient(130deg, #002d74, #00a0df);
   }
