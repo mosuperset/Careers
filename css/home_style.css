@@ -3,6 +3,17 @@ body {
   height: 100%;
 }
 
+  div h1 {
+    text-align: center;
+    margin: 150px;
+    font-size: 72px;
+    color: #949494;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-style: ridge;
+    border-left: hidden;
+    border-right: hidden;
+  }
+
 body {
   margin: 0;
   background-color: #292929;
@@ -59,7 +70,7 @@ nav a:after {
 }
 
 nav a:nth-child(1):before {
-  background-color: #002d74
+  background-color: #002d74;
 }
 
 nav a:nth-child(1):after {
