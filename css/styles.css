@@ -143,13 +143,50 @@ nav a:nth-child(4):hover ~ #indicator {
   li{
     list-style: none;
   }
-  .skills{
+  .skills3{
     display: flex;
     justify-content: center;
+    gap: 12px;
   }
 
   h1 , h2, h3 {
     color:#949494;
     font-variant: small-caps;
     text-decoration:underline;
+  }
+
+    p{
+      border: 2px solid white;
+      border-radius: 50px;
+      padding: 25px;
+      background-color: antiquewhite;
+    }
+.skills, .skills2 {
+display: block;
+width: 100%;
+border-bottom: 1px;
+margin-top: 25px;
+border: solid;
+border-radius: 50px;
+background-color: antiquewhite;
+}
+h4 {
+  margin-bottom: 12px;
+}
+ul {
+  display: block;
+  border-bottom: 1px;
+  margin-top: 25px;
+  border: solid;
+  border-radius: 50px;
+  background-color: antiquewhite;
+}
+
+
+  .skills3 ul {
+    border: none
+  }
+  .skills3 li {
+    border: none;
+    
   }
