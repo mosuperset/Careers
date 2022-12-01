@@ -24,13 +24,12 @@ body {
 }
 
 nav {
-  position: absolute;
   top: 50%;
   right: 0;
   left: 0;
   width: 319px;
   display: table;
-  margin: 50px auto;
+  margin: 100px auto;
   transform: translateY(-50%);
 }
 
