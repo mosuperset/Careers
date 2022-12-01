@@ -15,11 +15,12 @@ body {
   }
 
 body {
-  margin: 0;
+  margin: 0 auto;
   background-color: #292929;
   overflow: hidden;
   font-variant: small-caps;
   font-size: xx-large;
+  max-width: 1500px;
 }
 
 nav {
