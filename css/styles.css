@@ -193,3 +193,19 @@ ul {
   footer{
     text-align: center;
   }
+  .tittle{
+    font-style: italic;
+    
+  }
+  .references li{
+    margin-bottom: 24px;
+  }
+  .references{
+    text-align: left
+  }
+  .references h2{
+    text-align: center;
+  }
+  .url{
+   text-indent: 3rem;
+  }
