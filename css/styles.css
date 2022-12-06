@@ -191,8 +191,9 @@ ul {
     text-align: center;
   }
   a {
-    text-decoration: none;
-    color: black;
+    text-decoration:none;
+    color: blue;
+    cursor: pointer;
   }
   .UoA li {
     border: none;
@@ -217,4 +218,8 @@ ul {
   }
   .url{
    text-indent: 3rem;
+  }
+  ul {
+    line-height: 1.5;
+    border: none;
   }
