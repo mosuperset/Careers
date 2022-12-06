@@ -222,4 +222,9 @@ ul {
   ul {
     line-height: 1.5;
     border: none;
+    padding-left: 0%;
+  }
+  .comptia, .cisco {
+    font-size: 25x;
+    font-style: oblique;
   }
